@@ -1,0 +1,21 @@
+body {
+    background-color:black; 
+    color: #ffffff; 
+    font-family: Arial, sans-serif;
+  }
+header {
+    background-color:black; 
+    color: #ffffff; 
+    padding: 20px;
+    text-align: center;
+  }
+  nav {
+    color: black;
+  }
+  .card-img-top {
+    position: center;
+        width: 40%;
+        border-width: 3px;
+    
+        height: 40%;
+  }

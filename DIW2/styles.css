@@ -1,0 +1,55 @@
+body {
+    background-color:rgb(12, 12, 12); 
+    color:black;
+    font-family: Arial, sans-serif;
+  }
+header .navbar-logo {
+  font-style: italic;
+}
+
+#nav-item {
+    text-decoration-color: black;
+        position:center;
+
+}
+
+
+.card {
+    border-width: 0;
+    margin-bottom: 20px;
+    box-shadow: grey;
+  }
+  
+  .card img {
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 576px) {
+    .card img {
+      height: 300px;
+    }
+  }
+  #promo-gif {
+    position:static center;
+        width: 10%;
+        border-width: 3px;
+    
+        height: 150px;
+    }
+h2 {
+  color: white;
+}
+  footer {
+    background-color: black;
+    color: #ffffff; 
+    padding: 20px;
+    text-align: center;
+  }
+ nav {
+    background-color:black;
+    color: #ffffff; 
+    padding: 20px;
+    text-align:center;
+  }
+
